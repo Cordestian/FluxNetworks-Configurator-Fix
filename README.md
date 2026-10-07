@@ -1,12 +1,16 @@
 # FluxNetworks Configurator Fix
 
-A compatibility fix for the **Flux Networks Configurator**.
+A fix for the **Flux Networks Configurator**.
 
-This project contains fixes and modifications to the Flux Networks Configurator to address compatibility issues with newer Minecraft/modpack environments.
+This project focuses specifically on fixing the Configurator's copy/paste functionality so that settings can be copied and applied correctly **without requiring the target device to be broken/replaced and without changing the network assignment**.
 
-## Purpose
+## Related Issues
 
-This repository is a fork of [Flux Networks](https://github.com/SonarSonic/Flux-Networks) maintained specifically for developing and distributing fixes to the Configurator.
+* [#588 — Configurator doesnt change the network](https://github.com/SonarSonic/Flux-Networks/issues/588)
+
+## Original Project
+
+This is a fork of [Flux Networks](https://github.com/SonarSonic/Flux-Networks), maintained specifically for developing and distributing this Configurator fix.
 
 ## License
 
@@ -20,4 +24,4 @@ This project retains the original Flux Networks licensing and attribution:
 * GUI Designs and GUI Resources
 
   * Copyright (C) 2019-2021 BloCamLimb. All rights reserved.
-  *
+  * [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
